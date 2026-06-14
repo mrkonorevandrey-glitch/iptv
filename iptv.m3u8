@@ -1,5 +1,5 @@
 #EXTM3U url-tvg="https://iptvx.one/EPG"
-#EXTINF:-1 tvg-id="smotrim-100-klassika" tvg-logo="https://iptvx.one/picons/smotrim-100-klassika.png" tvg-shift="-4" group-title="Кино", Смотрим 100% Классика
+#EXTINF:-1 tvg-id="smotrim-100-klassika" tvg-logo="https://iptvx.one/picons/smotrim-100-klassika.png" tvg-shift="-3" group-title="Кино", Смотрим 100% Классика
 https://stream.smotrim.ru/hls/fasttv03/playlist_3.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="kinouzhas" tvg-logo="https://iptvx.one/picons/kinouzhas-int.png" audio-track="rus", Киноужас
 http://158.101.222.193:88/georgia_play.php?id=kinoujas
